@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 💻 **Software Engineering Student | Full-Stack & AI/ML Enthusiast**  
-🎓 4th Semester, NIST University
+🎓 6th Semester, NIST University
 
 ---
 
